@@ -5,3 +5,11 @@
     transition: 0.5s ease-in-out;
     cursor: pointer;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
